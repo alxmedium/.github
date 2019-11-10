@@ -1,6 +1,6 @@
 # Pull Request Name #Issue Reference
 
-Closes AlexisNava/amedium#1
+Closes alxmedium/alxmedium#1
 
 ## Description
 

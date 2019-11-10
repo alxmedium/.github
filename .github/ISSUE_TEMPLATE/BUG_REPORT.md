@@ -51,4 +51,6 @@ Please complete the following information.
 
 ## Aditional Context
 
+<!--
 Add any other context about the problem here.
+-->
