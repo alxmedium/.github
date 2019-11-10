@@ -1,19 +1,31 @@
+---
+name: Bug Report
+about: Create a report to help us improve
+---
+
 # Bug Report Name
 
+<!--
 Create a report to help us improve
+-->
 
 ## Checklist
 
-- [ ] I follow all the installation instructions.
-- [ ] I have all the requirements installed.
+- [ ] I follow all the installation instructions
+- [ ] I have all the requirements installed
+- [ ] I use the latest version of the project
 
 ## Description
 
+<!--
 A clear and concise description of what the bug is.
+-->
 
 ## Steps to reproduce it
 
+<!--
 Steps to reproduce the behavior:
+-->
 
 1. One....
 2. Two....
@@ -22,11 +34,15 @@ Steps to reproduce the behavior:
 
 ## Expected behavior
 
+<!--
 A clear and concise description of what you expected to happen.
+-->
 
 ## Details
 
-Please complete the following information and delete this line.
+<!--
+Please complete the following information.
+-->
 
 - Docker Image Version:
 - Language Version:
