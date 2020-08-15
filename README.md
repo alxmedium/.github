@@ -1,11 +1,6 @@
 # .github
 
-GitHub stuff for the alxmedium project.
-
-## Usage
-
-- Issues Templates
-- Pull Request Templates
+This is a project to manage the **GitHub**'s organization documents templates and other related configuration with **GitHub**.
 
 ## Contributing
 
