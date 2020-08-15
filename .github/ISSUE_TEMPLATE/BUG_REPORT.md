@@ -1,19 +1,7 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: It is a document to create a bug report
 ---
-
-# Bug Report Name
-
-<!--
-Create a report to help us improve
--->
-
-## Checklist
-
-- [ ] I follow all the installation instructions
-- [ ] I have all the requirements installed
-- [ ] I use the latest version of the project
 
 ## Description
 
@@ -24,7 +12,7 @@ A clear and concise description of what the bug is.
 ## Steps to reproduce it
 
 <!--
-Steps to reproduce the behavior:
+Steps to replicate the behavior:
 -->
 
 1. One....
@@ -38,19 +26,11 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 -->
 
-## Details
+## Useful Information
 
 <!--
-Please complete the following information.
+You are free to add more information
 -->
 
-- Docker Image Version:
-- Language Version:
-- Framework Version:
-- Platform Version:
-
-## Aditional Context
-
-<!--
-Add any other context about the problem here.
--->
+- Project Name:
+- Project Version:
